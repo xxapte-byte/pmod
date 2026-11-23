@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "pl.pmod.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["EntityMixin", "ClientPlayerEntityMixin", "MinecraftClientAccessor"],
+  "injectors": { "defaultRequire": 0 }
+}
